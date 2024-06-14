@@ -1,8 +1,7 @@
-<center> <h1>Hi everybody</h1> </center>
 <div align="center">
 <h1 align="center">Hi there, I'm Daniel</h1>
 <h4 align="center">A Mechanical Engineering Student and Calculus Tutor 👨‍🏫 at National University of Colombia.</h4>
-<img src="https://64.media.tumblr.com/20ab4414f1c026a0a4ed39f62333813c/c8368a73019e6a7d-d3/s400x600/d25ed37c79393feafe41f9396ee9fd6738be9235.gif" alt="gif" style="max-width: 400px; margin-top: 20px;">
+<img src="https://64.media.tumblr.com/88ee0209dbd7813e54e4c5d8772a6d30/d8f8c3e831536878-70/s400x600/a16e1cbe0a3564720d0db72e053b35e008331ff7.gifv" alt="gif" style="max-width: 400px; margin-top: 20px;">
 </div>
 
 </div>
@@ -21,3 +20,4 @@
   </samp>
 </div>
 </details>
+<div>
