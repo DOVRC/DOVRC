@@ -13,8 +13,8 @@
     <h2 align="center">You can reach me by:</h2>
     <p align="center">
       <br/>
-      <a href="www.linkedin.com/in/dossav55" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yulian" height="30"/></a>
-      <a href="mailto:danielossa556@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Yulian" height="30"/></a>
+      <a href="https://www.linkedin.com/in/dossav55/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Daniel" height="30"/></a>
+      <a href="mailto:danielossa556@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Daniel Mail" height="30"/></a>
       <br>
     </p>
   </samp>
